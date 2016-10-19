@@ -1,9 +1,3 @@
-/* 
-* Class
-* Copyright (c) 2013 Class	http://gaoge.name
-* E-Mail:g@gaoge.name
-* Date: 2013-08 
-*/ 
 
 var wait = 2;
 var jieguo = 0;
