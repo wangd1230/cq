@@ -18,6 +18,10 @@ div::selection {
 	overflow:hidden;
 	border:2px solid #ccc;
 	line-height:500px;
+	background-image: url('../img/bg.jpg');
+}
+.center{
+	margin: 0 auto;
 }
 .cfav{
 	width:240px;
